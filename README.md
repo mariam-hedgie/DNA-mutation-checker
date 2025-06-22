@@ -1,5 +1,7 @@
 # DNA Mutation Checker 🧬
 
+This is my college Python class project.
+
 This Python project compares DNA sequences from three subjects against a reference DNA sequence. It transcribes the DNA to RNA, translates it into amino acids, checks if the sequences are **synonymous** (same amino acid output despite mutations), and counts the number of mutations needed to make them identical to the reference.
 
 ---
